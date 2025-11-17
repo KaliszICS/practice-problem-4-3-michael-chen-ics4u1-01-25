@@ -1,3 +1,9 @@
+/**
+ * Class to define a chair
+ * @author Michael Chen
+ * @version 1.0.0
+ */
+
 public class Chair {
     private int legs; 
     private String material;

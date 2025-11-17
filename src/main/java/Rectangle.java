@@ -1,3 +1,9 @@
+/**
+ * Class to define a rectangle
+ * @author Michael Chen
+ * @version 1.0.0
+ */
+
 public class Rectangle {
     private double width; 
     private double length;
